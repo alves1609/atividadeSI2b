@@ -1,0 +1,13 @@
+A empresa Car Flying quer disponibilizar viagens em seu mais novo
+carro voador por apenas dez dolares por pessoa, solicitou um aplicativo mobile, 
+simples e totalmente acessivel para que seus colaboradores possam usa-lo com facilidade.7
+O requerimento consistia em ser um aplicativo de telefone, que possua uma tela de login
+para usuarios, um mapa de descrição de ponto de partida e ponto de chegada, um chat para 
+o cliente poder entrar em contato com seu motorista e cadastros de opções de pagamento, 
+tudo isso em um aplicativo simples e totalmente usual.
+O usuário poderá cancelar viagem, avaliar motorista, avaliar carro, pedir o carro, 
+adicionar formas de pagamento, acessar viagens já feitas e tals.
+O motorista poderá Aí o perfil do motorista, criar conta, modificar cadastro, recuperar cadastro, 
+caso troque de veículo, aceitar e rejeitar corridas e modos de receber o pagamento.
+O sistema ele tem que fazer uma verificação de contas, verificar se a região solicitada da corrida a gente cobre, calcular a viagem, traçar o trajeto, verifica os dados do motorista e do passeiro,
+ não deixar o mesmo usuário ter duas contas.

@@ -1,0 +1,1 @@
+Primeiro faremos teste no aplicativo com alguns usuários, neste primeiro momento a corrida será totalmente gratuita para podermos analisar as melhorias que devemos fazer no aplicativo, as funcionalidades necessárias para facilitar com que o cliente peça seu carro voador de forma totalmente simples e rapida.

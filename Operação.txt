@@ -1,0 +1,1 @@
+O monitoramento do software criado por nós, será atravez de scripts automaticos e um servidor da nuvem para o sistema.
